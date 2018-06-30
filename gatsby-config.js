@@ -3,10 +3,10 @@ const autoprefixer = require("autoprefixer");
 module.exports = {
   pathPrefix: "/alarms",
   siteMetadata: {
-    title: "Alarmes Ocorrências Quartel Bombeiros",
+    title: "Alarmes Ocorrencias Quartel Bombeiros",
     author: "Luís Torres",
-    description: "Alertas para ocorrências no Quartel",
-    keywords: "BVE, Bombeiros, alarmes, icêndios, emergência",
+    description: "Alertas para ocorrencias no Quartel",
+    keywords: "BVE, Bombeiros, alarmes, icendios, emergencia",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
