@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-eslint-sass-analytics",
-  "description": "My base gatsby starter",
+  "name": "alarms",
+  "description": "Firefighter Headerquarters alarms",
   "version": "1.0.0",
-  "author": "José Francisco",
+  "author": "Luís Torres",
   "dependencies": {
     "autoprefixer": "^8.0.0",
     "babel-plugin-react-css-modules": "^3.4.0",
@@ -21,9 +21,7 @@
     "style-loader": "^0.21.0"
   },
   "homepage": "https://github.com/luisptorres/alarms",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {

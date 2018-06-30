@@ -5,9 +5,8 @@ module.exports = {
   siteMetadata: {
     title: "Alarmes Ocorrências Quartel Bombeiros",
     author: "Luís Torres",
-    description: "Página com sons de alerta para ocorrências no Quartel",
-    keywords:
-      "BVE, Bombeiros, ocorrências, alarmes, icêndios, emergência médica",
+    description: "Alertas para ocorrências no Quartel",
+    keywords: "BVE, Bombeiros, alarmes, icêndios, emergência",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
