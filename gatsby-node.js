@@ -16,7 +16,7 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
     config.loader("css", {
       test: /\.(scss|css)$/,
       loader: ExtractTextPlugin.extract([
-        'css-loader?minimze&importLoader=1&modules&localIdentName=[path]___[name]__[local]___[hash:base64:5]',
+        "css-loader?minimze&importLoader=1&modules&localIdentName=[path]___[name]__[local]___[hash:base64:5]",
         "postcss",
       ]),
     });
