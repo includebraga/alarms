@@ -3,6 +3,7 @@
   "description": "Firefighter Headerquarters alarms",
   "version": "1.0.0",
   "author": "Luís Torres",
+  "url": "https://bve-alarms.netlify.com/",
   "dependencies": {
     "autoprefixer": "^8.0.0",
     "babel-plugin-react-css-modules": "^3.4.0",
