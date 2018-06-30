@@ -1,0 +1,40 @@
+@import "../../styles/colors.css";
+@import "../../styles/layout.css";
+@import "../../styles/typography.css";
+@import "../../styles/theming.css";
+@import "../../styles/breakpoint.css";
+
+.root {
+  position: relative;
+
+  z-index: 1;
+
+  display: inline-block;
+
+  box-sizing: border-box;
+  padding: $spacing-xxSmall;
+  margin: $spacing-xxSmall;
+
+  background: white;
+  border: $border-width-default solid $color-orange;
+
+  color: $color-navy-blue;
+
+  outline: none;
+
+  font-family: $font-family-mono;
+  font-size: $font-size-small;
+  font-weight: $font-weight-bold;
+  line-height: $line-height-small;
+  text-align: left;
+  text-decoration: none;
+
+  transition: transform 0.3s ease-in-out;
+}
+
+.root:hover,
+.root:focus {
+  border-color: $color-light-blue;
+
+  transform: translate(0, $border-width-default);
+}

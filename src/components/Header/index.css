@@ -1,0 +1,17 @@
+@import "../../styles/colors.css";
+@import "../../styles/layout.css";
+
+.header {
+  display: flex;
+  justify-content: center;
+  /* height: $spacing-xxxxLarge; */
+  margin-bottom: 1.45rem;
+
+  background-color: $color-fire-red;
+}
+
+.logo {
+  width: $spacing-xxxxLarge;
+  height: $spacing-xxxxLarge;
+  margin: $spacing-xxSmall;
+}
