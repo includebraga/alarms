@@ -27,6 +27,7 @@ export default class TemplateWrapper extends Component {
           title: PropTypes.string.isRequired,
           description: PropTypes.string.isRequired,
           keywords: PropTypes.string.isRequired,
+          url: PropTypes.string.isRequired,
         }).isRequired,
       }).isRequired,
     }).isRequired,
@@ -37,6 +38,7 @@ export default class TemplateWrapper extends Component {
       title: siteTitle,
       description: siteDescription,
       keywords: siteKeywords,
+      url: siteUrl,
     } = this.props.data.site.siteMetadata;
 
     return (
@@ -45,6 +47,24 @@ export default class TemplateWrapper extends Component {
           <title>{siteTitle}</title>
           <meta name="description" content={siteDescription} />
           <meta name="keywords" content={siteKeywords} />
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content={siteTitle} />
+          <meta name="twitter:description" content={siteDescription} />
+          <meta property="og:type" content="website" />
+          <meta property="og:title" content={siteTitle} />
+          <meta property="og:url" content={siteUrl} />
+          <meta property="og:description" content={siteDescription} />
+          <meta property="og:site_name" content={siteTitle} />
+          <meta
+            property="fb:admins"
+            content="100000633932565,1448175923,707387762,11876227"
+          />
+          <meta name="msapplication-TileColor" content="#ffffff" />
+          <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+          <meta name="theme-color" content="#ffffff" />
+          <meta itemProp="name" content={siteTitle} />
+          <meta itemProp="description" content={siteDescription} />
         </Helmet>
         <Header />
         <div

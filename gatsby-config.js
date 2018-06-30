@@ -7,6 +7,7 @@ module.exports = {
     author: "Luís Torres",
     description: "Alertas para ocorrencias no Quartel",
     keywords: "BVE, Bombeiros, alarmes, icendios, emergencia",
+    url: "https://bve-alarms.netlify.com/",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
