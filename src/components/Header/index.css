@@ -4,7 +4,6 @@
 .header {
   display: flex;
   justify-content: center;
-  /* height: $spacing-xxxxLarge; */
   margin-bottom: 1.45rem;
 
   background-color: $color-fire-red;
