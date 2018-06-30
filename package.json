@@ -21,7 +21,9 @@
     "style-loader": "^0.21.0"
   },
   "homepage": "https://github.com/luisptorres/alarms",
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
@@ -46,7 +48,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.6.1",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "prettier": "^1.10.2",
     "stylelint": "^9.0.0",
     "stylelint-order": "^0.8.1"

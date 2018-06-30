@@ -3,10 +3,11 @@ const autoprefixer = require("autoprefixer");
 module.exports = {
   pathPrefix: "/alarms",
   siteMetadata: {
-    title: "Gatsby eslint scss analytics starter",
-    author: "José Francisco",
-    description: "A gatsby starter with ESLint, scss and analytics",
-    keywords: "gatsby, starter, eslint, scss, analytics",
+    title: "Alarmes Ocorrências Quartel Bombeiros",
+    author: "Luís Torres",
+    description: "Página com sons de alerta para ocorrências no Quartel",
+    keywords:
+      "BVE, Bombeiros, ocorrências, alarmes, icêndios, emergência médica",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
