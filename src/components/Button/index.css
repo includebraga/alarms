@@ -5,6 +5,7 @@
 @import "../../styles/breakpoint.css";
 
 .root {
+
   position: relative;
 
   z-index: 1;
@@ -19,6 +20,7 @@
   border: $border-width-default solid $color-orange;
 
   color: $color-navy-blue;
+  cursor: pointer;
 
   outline: none;
 
