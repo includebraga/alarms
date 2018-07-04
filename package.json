@@ -22,7 +22,9 @@
     "style-loader": "^0.21.0"
   },
   "homepage": "https://github.com/luisptorres/alarms",
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {

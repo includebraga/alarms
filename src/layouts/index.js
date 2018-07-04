@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 import "./reset.css";
 
@@ -77,6 +78,7 @@ export default class TemplateWrapper extends Component {
         >
           {this.props.children()}
         </div>
+        <Footer/>
       </div>
     );
   }
