@@ -1,0 +1,24 @@
+                                       :+oso/:
+                                      omMMMMMm+
+                                     :NMMMMMMMm
+       syyyyy+    yyyyyy/            :dMMMMMMMh
+      :MMMMMM+   /MMMMMM/             :sdNNNdo:
+      +MMMMMN:   sMMMMMm                 :::
+  ::::yMMMMMm::::dMMMMMh:::
+  oMMMMMMMMMMMMMMMMMMMMMMMs     ohhhhhhhhhhhhhh
+  oMMMMMMMMMMMMMMMMMMMMMMMs     yMMMMMMMMMMMMMM
+  /sshMMMMMNssssdMMMMMNsss/     yMMMMMMMMMMMMMM
+     yMMMMMd    dMMMMMy         :::::::hMMMMMMM
+     mMMMMMs   :NMMMMM+                hMMMMMMM
+    :MMMMMM/   +MMMMMM:                hMMMMMMM
+    oMMMMMN:   sMMMMMm                 hMMMMMMM
+:dddmMMMMMNddddNMMMMMNdds              hMMMMMMM
+:MMMMMMMMMMMMMMMMMMMMMMMh              hMMMMMMM
+:mmmMMMMMMmmmmNMMMMMMmmmy              hMMMMMMM
+ ::sMMMMMN::::yMMMMMm::::       +++++++dMMMMMMM++++++/
+   hMMMMMh    dMMMMMy           mMMMMMMMMMMMMMMMMMMMMy
+   mMMMMMo   :NMMMMM+           mMMMMMMMMMMMMMMMMMMMMy
+  :osssss:   :ssssss:           ossssssssssssssssssss+
+
+Hi! Nice to see you here! You can checkout the source code at
+https://github.com/includebraga/alarms.
